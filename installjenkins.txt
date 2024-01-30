@@ -1,4 +1,4 @@
-sudo amazon-linux-extras install java-openjdk11
+sudo amazon-linux-extras install java-openjdk11 -y
 java -version
 alternatives --config java
 sudo wget -O /etc/yum.repos.d/jenkins.repo \
