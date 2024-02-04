@@ -1,3 +1,4 @@
 #!/bin/bash
-apt install apt  install docker.io -y
-apt install git -y
+apt-get install apt  install docker.io -y
+apt-get install git -y
+apt-get update
